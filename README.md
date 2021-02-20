@@ -1,0 +1,2 @@
+# BitMan
+Java bit manipulator.
